@@ -1,0 +1,5 @@
+hello world
+"this file just be"
+'I need different input data'
+$HOME
+*
